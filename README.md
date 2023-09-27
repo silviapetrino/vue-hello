@@ -12,6 +12,7 @@ e di aggiungere alla pagina un’immagine, presa anch’essa da un data.
 -4. con la funzione Create App, metodo fornito da Vue.js, inizializziamo l'istanza dell'applicazione Vue;
 
 -4.1. inseriamo il metodo mount() per connettere l'istanza al tag di riferimento con id="App";
+
 -5. inseriamo il metodo data per creare i dati necessari ;
 
 -6. riportiamo i valori.
