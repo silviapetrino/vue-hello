@@ -4,7 +4,7 @@ he program simply involves displaying a message on the screen within an h1 eleme
 
 1. Add the Vue CDN.
 
-2. Add a <div> element with the id "App" that will contain the program.
+2. Add an html element with the id "App" that will contain the program.
 
 3. Add a script.js file.
 
